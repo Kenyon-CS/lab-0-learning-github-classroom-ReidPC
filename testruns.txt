@@ -1,0 +1,34 @@
+Outputs from finding anagrams:
+
+Enter a word: goat
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'goat':
+1. goat
+2. toag
+3. toga
+
+Enter a word: laws
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'laws':
+1. awls
+2. laws
+3. slaw
+
+Enter a word: dog
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'dog':
+1. dog
+2. god
+
+Enter a word: gums
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'gums':
+1. gums
+2. mugs
+3. smug
+
+Enter a word: bicycle
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'bicycle':
+1. bicycle
+
